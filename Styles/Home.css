@@ -1,0 +1,50 @@
+.form-marks {
+    width: 100%;
+    padding: 5px;
+    border-width: 0px;
+    background-color: none;
+    text-align: center;
+}
+
+.form-marks:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+.nav_text {
+    font-size: 15px;
+}
+
+#myInput1 {
+    width: 80%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #000080;
+}
+
+.s_btn1 {
+    border-radius: 0px;
+    width: 18%;
+    color: white;
+    font-size: 20px;
+    padding: 9px;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+.nav-link:hover {
+    letter-spacing: 1px;
+    font-weight: 500;
+    transition: letter-spacing 0.5s, font-weight 0.5s;
+}
+
+.table-responsive {
+    font-size: 14px;
+}
+
+/*
+@media only screen and (max-width: 768px) {
+
+}*/

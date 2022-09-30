@@ -1,0 +1,14 @@
+#myInput {
+    width: 80%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #000080;
+}
+
+.s_btn {
+    border-radius: 0px;
+    width: 18%;
+    color: white;
+    font-size: 20px;
+    padding: 9px;
+}
